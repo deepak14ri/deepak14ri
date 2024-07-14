@@ -1,5 +1,5 @@
 <div style="text-align: center; padding: 60px;">
-  <img alt="my stats" width="800" src="https://github.com/user-attachments/assets/c858570c-ac42-4e3f-901e-30e51694de9c" />
+  <img alt="my stats" width="800" src="https://github.com/user-attachments/assets/47f004fc-4833-4dc7-b432-1f29c3cd210b" />
 </div>
 
 <p dir="auto" style="text-align: center; font-size: 1.2em;">
