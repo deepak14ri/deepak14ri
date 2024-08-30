@@ -3,7 +3,7 @@
 </div>
 
 <p dir="auto" style="text-align: center; font-size: 1.2em;">
-  I'm a self-taught passionate MERN Stack Developer from India 🇮🇳
+  I'm a passionate MERN Full Stack Developer.
 </p>
 <p dir="auto" style="text-align: center; font-weight: bold;">
   <strong>About me</strong>
