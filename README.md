@@ -3,17 +3,17 @@
 </div>
 
 <p dir="auto" style="text-align: center; font-size: 1.2em;">
-  I'm a passionate MERN Full Stack Developer.
+  I'm a passionate Full Stack Developer.
 </p>
 <p dir="auto" style="text-align: center; font-weight: bold;">
   <strong>About me</strong>
 </p>
 <ul style="list-style: none; padding: 0; text-align: center;">
   <li>❤️ I love writing JavaScript, TypeScript, Python, and building fun experiments on type-level</li>
-  <li>💬 Ask me about anything <a href="https://github.com/deepak14ri/deepak14ri/issues">here</a></li>
+  <li>💬 Ask me about anything <a href="https://github.com/letsdeepchat/letsdeepchat/issues">here</a></li>
 </ul>
 
 <div style="display: flex; padding: 20px; justify-content: center; gap: 20px;">
-  <img alt="my stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=deepak14ri&show_icons=true&theme=radical" />
+  <img alt="my stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=letsdeepchat&show_icons=true&theme=radical" />
   <img alt="Top Langs" src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'JavaScript'%2C'HTML'%2C'CSS'%2C'Python'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B50%2C25%2C15%2C10%5D%7D%5D%7D%7D&width=200&height=200" style="width: 230px; height: 230px;" />
 </div>
